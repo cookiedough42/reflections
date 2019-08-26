@@ -2,6 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 A new and empty repository will be initialized. 
 
+
 How is the staging area different from the working directory and the 
 repository? What value do you think it offers?
 
@@ -17,7 +18,12 @@ version, where new features can be testet, and a live version, which
 should be stable... 
 Another good example is the shown easy mode of a game.
 
+
 How do the diagrams help you visualize the branch structure?
+
+It helps to visualize which commits are in which branches and to better
+see the parent commit. 
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
