@@ -1,0 +1,5 @@
+Q1: When would you want to use a remote repository 
+    rather than keeping all your work local?
+    
+A1: For example when I want to work on multiple
+    devices or together with other devs.
