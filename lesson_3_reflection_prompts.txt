@@ -3,3 +3,13 @@ Q1: When would you want to use a remote repository
     
 A1: For example when I want to work on multiple
     devices or together with other devs.
+	
+
+Q2: Why might you want to always pull changes 
+	manually rather than having Git automatically 
+	stay up-to-date with your remote repository?
+	
+A2: For example when I made changes and have to 
+	interrupt coding and the change is not ready yet,
+	so I don't want it to be public until it is 
+	finished the manually push-pull thing is better. 
