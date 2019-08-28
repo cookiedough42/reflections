@@ -13,3 +13,10 @@ A2: For example when I made changes and have to
 	interrupt coding and the change is not ready yet,
 	so I don't want it to be public until it is 
 	finished the manually push-pull thing is better. 
+
+
+Q3: Describe the differences between forks, clones, 
+	and branches. When would you use one instead of 
+	another?
+	
+A3: ...TODO...
